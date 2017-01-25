@@ -14,4 +14,6 @@
 
 	echo "bug fixed";
 
+	echo "for remote merging using pull";
+
 ?>
